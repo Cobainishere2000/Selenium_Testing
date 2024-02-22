@@ -1,0 +1,28 @@
+1707280415373	geckodriver	INFO	Listening on 127.0.0.1:35578
+1707280415561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "28454" "--remote ... alhost:28454/,http://[::1]:28454/" "-no-remote" "-profile" "C:\\Users\\SAPTAR~1\\AppData\\Local\\Temp\\rust_mozprofiledNZlUi"
+console.error: Enterprise Policies: 
+  Unknown policy: FlashPlugin
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1707280415781	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1707280415850	Marionette	INFO	Listening on port 64324
+WebDriver BiDi listening on ws://127.0.0.1:28454
+Read port: 64324
+1707280415958	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:28454/devtools/browser/80241c5c-3089-453a-89b8-b1555da30051
+JavaScript error: resource://gre/modules/XULStore.sys.mjs, line 60: Error: Can't find profile directory.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://v1.training-support.net."
+1707280422598	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1707280423601	RemoteAgent	INFO	Perform WebSocket upgrade for incoming connection from 127.0.0.1:64389
+1707280423605	CDP	WARN	Invalid browser preferences for CDP. Set "fission.webContentIsolationStrategy"to 0 and "fission.bfcacheInParent" to false before Firefox starts.
+1707280423676	Marionette	INFO	Stopped listening on port 64324
+Dynamically enable window occlusion 1
